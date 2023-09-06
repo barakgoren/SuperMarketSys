@@ -1,0 +1,4 @@
+Dairy^Yogurt^1.99
+Dairy^Butter^3.49
+Dairy^Cheese^4.99
+Dairy^Whipped Cream^2.49

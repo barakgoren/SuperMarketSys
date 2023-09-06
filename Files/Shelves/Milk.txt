@@ -1,0 +1,11 @@
+Dairy,Milk,2.99
+Dairy,Yogurt,1.99
+Dairy,Butter,3.49
+Dairy,Cheese,4.99
+Dairy,Whipped Cream,2.49
+Dairy,Ice Cream,5.99
+Dairy,Almond Milk,3.99
+Dairy,Soy Milk,3.49
+Dairy,Coconut Milk,4.49
+Diary,Golda Ice Cream,31.99
+Diary,Oat Milk,3.99

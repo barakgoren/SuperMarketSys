@@ -1,0 +1,3 @@
+Meat^Ground Beef^7.99
+Dairy^Milk^2.99
+Diary^Golda Ice Cream^31.99
