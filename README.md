@@ -50,5 +50,5 @@ You can test all the entities by editing the start() function in the Supermarket
 ![](Python-final-pics/whoisinstore2.png)
 
 ### 📊 Manager daily sales view
-![](/Users/barakgoren/PycharmProjects/PythonFinal/Python-final-pics/displayPurchases.png)
+![](Python-final-pics/displayPurchases.png)
 
