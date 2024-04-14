@@ -12,7 +12,7 @@ The project is written in Python and uses some simple colors to make the user in
 
 To install the project, you need to clone the repository to your local machine.
 ```bash
-git clone (repository link)
+git clone https://github.com/barakgoren/SuperMarketSys.git
 ```
 After cloning, notice the project manages its data using a simple text file. you might need to change the path of the file in the code to match your local path.
 Also, you need to create clients files as the projects required.
