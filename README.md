@@ -28,26 +28,26 @@ You can test all the entities by editing the start() function in the Supermarket
 
 
 ### 🛍️ Shelf display for clients
-![](/Users/barakgoren/PycharmProjects/PythonFinal/Python-final-pics/shelfDisplay.png)
+![](Python-final-pics/shelfDisplay.png)
 
 ### 🛒 Cart display for clients
-![](/Users/barakgoren/PycharmProjects/PythonFinal/Python-final-pics/cartDisplay.png)
+![](Python-final-pics/cartDisplay.png)
 
 ### 💳 Client purchasing process
-![](/Users/barakgoren/PycharmProjects/PythonFinal/Python-final-pics/purchasingProcess.png)
+![](Python-final-pics/purchasingProcess.png)
 
 ### 👋 Cashier welcome screen
-![](/Users/barakgoren/PycharmProjects/PythonFinal/Python-final-pics/cashierMenu.png)
+![](Python-final-pics/cashierMenu.png)
 
 ### 💼 Cashier action process
-![](/Users/barakgoren/PycharmProjects/PythonFinal/Python-final-pics/cashierAction.png)
+![](Python-final-pics/cashierAction.png)
 
 ### 📦 Worker adding product process
-![](/Users/barakgoren/PycharmProjects/PythonFinal/Python-final-pics/sadranAddProduct.png)
+![](Python-final-pics/sadranAddProduct.png)
 
 ### 👀 Manager who is in store view
-![](/Users/barakgoren/PycharmProjects/PythonFinal/Python-final-pics/whoisinstore1.png)
-![](/Users/barakgoren/PycharmProjects/PythonFinal/Python-final-pics/whoisinstore2.png)
+![](Python-final-pics/whoisinstore1.png)
+![](Python-final-pics/whoisinstore2.png)
 
 ### 📊 Manager daily sales view
 ![](/Users/barakgoren/PycharmProjects/PythonFinal/Python-final-pics/displayPurchases.png)
