@@ -28,27 +28,27 @@ You can test all the entities by editing the start() function in the Supermarket
 
 
 ### 🛍️ Shelf display for clients
-![](Python-final-pics/shelfDisplay.png)
+<img src="Python-final-pics/shelfDisplay.png" height="200" width="250">
 
 ### 🛒 Cart display for clients
-![](Python-final-pics/cartDisplay.png)
+<img src="Python-final-pics/cartDisplay.png" height="100" width="250">
 
 ### 💳 Client purchasing process
-![](Python-final-pics/purchasingProcess.png)
+<img src="Python-final-pics/purchasingProcess.png" height="300" width="400">
 
 ### 👋 Cashier welcome screen
-![](Python-final-pics/cashierMenu.png)
+<img src="Python-final-pics/cashierMenu.png" height="320" width="250">
+
 
 ### 💼 Cashier action process
-![](Python-final-pics/cashierAction.png)
+<img src="Python-final-pics/cashierAction.png" height="300" width="320">
 
 ### 📦 Worker adding product process
-![](Python-final-pics/sadranAddProduct.png)
+<img src="Python-final-pics/sadranAddProduct.png" height="450" width="320">
 
 ### 👀 Manager who is in store view
-![](Python-final-pics/whoisinstore1.png)
-![](Python-final-pics/whoisinstore2.png)
+<img src="Python-final-pics/whoisinstore1.png" height="450" width="250">
+<img src="Python-final-pics/whoisinstore2.png" height="450" width="250">
 
 ### 📊 Manager daily sales view
-![](Python-final-pics/displayPurchases.png)
-
+<img src="Python-final-pics/displayPurchases.png" height="550" width="450">
