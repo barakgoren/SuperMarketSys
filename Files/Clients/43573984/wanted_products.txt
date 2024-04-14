@@ -1,0 +1,3 @@
+Dairy,Ice Cream,5.99
+Dairy,Cheese,4.99
+Dairy,Coconut Milk,4.49

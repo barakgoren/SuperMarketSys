@@ -1,7 +1,6 @@
 Meat,Chicken,5.99
 Meat,Beef,9.99
 Meat,Pork,6.99
-Meat,Lamb,12.99
 Meat,Ground Beef,7.99
 Meat,Turkey,8.99
 Meat,Salami,4.99

@@ -1,0 +1,3 @@
+Dairy^Soy Milk^3.49
+Meat^Sausages^5.49
+Meat^Bacon^6.49

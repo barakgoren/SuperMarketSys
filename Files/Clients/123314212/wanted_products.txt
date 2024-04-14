@@ -1,0 +1,4 @@
+Dairy,Milk,2.99
+Dairy,Yogurt,1.99
+Meat,Lamb,12.99
+Meat,Salami,4.99

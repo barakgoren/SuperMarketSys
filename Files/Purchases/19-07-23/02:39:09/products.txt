@@ -1,3 +1,0 @@
-Meat^Bacon^6.49
-Meat^Ground Beef^7.99
-Dairy^Milk^2.99

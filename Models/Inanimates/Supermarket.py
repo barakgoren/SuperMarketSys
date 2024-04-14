@@ -144,7 +144,7 @@ class Supermarket:
                         f"../PythonFinal/Files/Clients/{client.get_id()}/wanted_products.txt", client,
                         self._shelves[shelf_choose].get_product()[product_choose])
                     client.add_product(self._shelves[shelf_choose].get_product()[product_choose])
-
+            sum_price = 0
             if input_number == 3:
                 print("-------------------------------")
                 print(Tools.client_purchase("               My cart: "))
@@ -153,7 +153,6 @@ class Supermarket:
                     FileHandler.say("You have no items in your cart")
                 else:
                     FileHandler.say("your list contains")
-                    sum_price = 0
                     for product in client.get_wishlist():
                         print(Tools.print_products(product, -2))
                         sum_price += product.get_price()
@@ -288,5 +287,7 @@ class Supermarket:
     def start(self):
         # There is Unhandled exception when picking the user!!
         clients = FileHandler.read_clients("../PythonFinal/Files/Clients")
-        self.shift_manager_menu(self._workers[13])
-
+        for worker in self._workers:
+            if isinstance(worker, ShiftManager):
+                self.shift_manager_menu(worker)
+        # self.client_menu(clients[2])
